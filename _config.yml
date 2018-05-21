@@ -1,1 +1,5 @@
 theme: icarus
+deploy:
+type: git
+repo: git@github.com:stevendinggang/stevendinggang.github.io.git
+branch: master
